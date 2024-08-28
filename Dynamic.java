@@ -5,7 +5,7 @@ public class Dynamic{
   
       public void dyname(String name, int id) {
           this.name = name;
-          this.age = id;
+          this.id = id;
       }
   
       public String toString() {
