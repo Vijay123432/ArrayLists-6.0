@@ -6,7 +6,7 @@ public class Create{
   // Iterate it by usig Iterator and While Loops
   public static void main(String[]args){
   
-List<Integer> l = new ArrayList<Integer>();
+    List<Integer> l = new ArrayList<Integer>();
       
       l.add(3);
       l.add(4);
